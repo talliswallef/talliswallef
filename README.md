@@ -15,7 +15,7 @@
 - 🌱 Atualmente estou aprendendo JAVA
 - 🌎 Meu site: https://tlssolucoesemti.com.br/nosso-blog
 - :cartwheeling: Algo que ajuda desenvolver a minha criatividade: CAPOEIRA
-- 🤔 I’m looking for help with ...
+
 -->
 
 <div align="left">
@@ -34,7 +34,7 @@
             
 </div>
 
-![](https://github.com/talliswallef/talliswallef/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/talliswallef/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
